@@ -1,0 +1,11 @@
+.slignore
+.slignore.generated
+buildSessionId
+coverage/
+node_modules/
+package-lock.json
+sltoken.txt
+testResult/
+tsOutput/
+.idea/
+packages/
